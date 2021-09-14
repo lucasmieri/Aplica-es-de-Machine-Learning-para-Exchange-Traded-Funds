@@ -1,4 +1,4 @@
-lista_variaveis=['ETF',
+lista_variaveis=['ETF',asOfDate_performanceOverview
                  
                  'ytdReturnPct_performanceOverview',
                  'ytdReturnPct_performanceOverviewCat',
