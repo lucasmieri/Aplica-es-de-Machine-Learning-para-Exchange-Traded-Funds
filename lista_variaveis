@@ -1,0 +1,99 @@
+lista_variaveis=['ETF',
+                 
+                 'ytdReturnPct_performanceOverview',
+                 'ytdReturnPct_performanceOverviewCat',
+                 'ytd_trailingReturns',
+                 'ytd_trailingReturnsNav',
+                 'ytd_trailingReturnsCat',
+                 
+                 'oneYearTotalReturn_performanceOverview',
+                 'oneYear_trailingReturns',
+                 'oneYear_trailingReturnsNav',
+                 'oneYear_trailingReturnsCat',
+                 
+                 'threeYearTotalReturn_performanceOverview',
+                 'threeYear_trailingReturns',
+                 'threeYear_trailingReturnsNav',
+                 
+                 'alpha_riskOverviewStatisticsCat_3y',
+                 'beta_riskOverviewStatisticsCat_3y',
+                 'meanAnnualReturn_riskOverviewStatisticsCat_3y',
+                 'rSquared_riskOverviewStatisticsCat_3y',
+                 'stdDev_riskOverviewStatisticsCat_3y',
+                 'sharpeRatio_riskOverviewStatisticsCat_3y',
+                 'treynorRatio_riskOverviewStatisticsCat_3y',
+                 
+                 'alpha_riskOverviewStatistics_3y',
+                 'beta_riskOverviewStatistics_3y',
+                 'meanAnnualReturn_riskOverviewStatistics_3y',
+                 'rSquared_riskOverviewStatistics_3y',
+                 'stdDev_riskOverviewStatistics_3y',
+                 'sharpeRatio_riskOverviewStatistics_3y',
+                 'treynorRatio_riskOverviewStatistics_3y',
+
+                 
+                 'fiveYrAvgReturnPct_performanceOverviewCat',
+                 'fiveYear_trailingReturns',
+                 'fiveYear_trailingReturnsCat',
+                 
+                 'alpha_riskOverviewStatisticsCat_5y',
+                 'beta_riskOverviewStatisticsCat_5y',
+                 'meanAnnualReturn_riskOverviewStatisticsCat_5y',
+                 'rSquared_riskOverviewStatisticsCat_5y',
+                 'stdDev_riskOverviewStatisticsCat_5y',
+                 'sharpeRatio_riskOverviewStatisticsCat_5y',
+                 'treynorRatio_riskOverviewStatisticsCat_5y',
+                 
+                 'alpha_riskOverviewStatistics_5y',
+                 'beta_riskOverviewStatistics_5y',
+                 'meanAnnualReturn_riskOverviewStatistics_5y',
+                 'rSquared_riskOverviewStatistics_5y',
+                 'stdDev_riskOverviewStatistics_5y',
+                 'sharpeRatio_riskOverviewStatistics_5y',
+                 'treynorRatio_riskOverviewStatistics_5y',
+
+
+                 'tenYear_trailingReturns',
+                 'tenYear_trailingReturnsNav',
+                 'tenYear_trailingReturnsCat',
+                 'alpha_riskOverviewStatisticsCat_10y',
+                 'beta_riskOverviewStatisticsCat_10y',
+                 'meanAnnualReturn_riskOverviewStatisticsCat_10y',
+                 'rSquared_riskOverviewStatisticsCat_10y',
+                 'stdDev_riskOverviewStatisticsCat_10y',
+                 'sharpeRatio_riskOverviewStatisticsCat_10y',
+                 'treynorRatio_riskOverviewStatisticsCat_10y',
+                 
+                 'alpha_riskOverviewStatistics_10y',
+                 'beta_riskOverviewStatistics_10y',
+                 'meanAnnualReturn_riskOverviewStatistics_10y',
+                 'rSquared_riskOverviewStatistics_10y',
+                 'stdDev_riskOverviewStatistics_10y',
+                 'sharpeRatio_riskOverviewStatistics_10y',
+                 'treynorRatio_riskOverviewStatistics_10y',
+                 
+                 
+                  'annualValue_annualTotalReturns_2020',
+                  'annualValue_annualTotalReturns_2019',
+                  'annualValue_annualTotalReturns_2018',
+                  'annualValue_annualTotalReturns_2017',
+                  'annualValue_annualTotalReturns_2016',
+                  'annualValue_annualTotalReturns_2015',
+                  'annualValue_annualTotalReturns_2014',
+                  'annualValue_annualTotalReturns_2013',
+                  'annualValue_annualTotalReturns_2012',
+                  'annualValue_annualTotalReturns_2011',
+                  'annualValue_annualTotalReturns_2010',
+                 
+                 
+                'annualValue_returnsCat_2015',
+                  'annualValue_returnsCat_2014',
+                  'annualValue_returnsCat_2013',
+                  'annualValue_returnsCat_2012',
+                  'annualValue_returnsCat_2011',
+                  'annualValue_returnsCat_2010',
+                 
+                 'category','category_morning_star',
+                 
+                 'realestate','consumer_cyclical', 'basic_materials','consumer_defensive',
+                 'technology','communication_services','financial_services','utilities','industrials','energy','healthcare']
