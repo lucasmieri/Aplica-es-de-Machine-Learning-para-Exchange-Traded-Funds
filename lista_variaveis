@@ -1,10 +1,18 @@
-lista_variaveis=['ETF','asOfDate_performanceOverview',
+lista_variaveis=[
+                #gerenciais
+                'ETF','asOfDate_performanceOverview',
                  
+                 #retorno da categoria
                  'ytdReturnPct_performanceOverview',
-                 'ytdReturnPct_performanceOverviewCat',
+                 
+                 #retornos reais
                  'ytd_trailingReturns',
                  'ytd_trailingReturnsNav',
+                 
+                 #trailingReturns categoria
+                 'ytdReturnPct_performanceOverviewCat',
                  'ytd_trailingReturnsCat',
+                 
                  
                  'oneYearTotalReturn_performanceOverview',
                  'oneYear_trailingReturns',
